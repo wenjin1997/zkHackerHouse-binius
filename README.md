@@ -30,6 +30,7 @@ $$
 - [binius官网](https://www.ulvetanna.io/news/binius-hardware-optimized-snark)
 - Binius论文：[Succinct Arguments over Towers of Binary Fields](https://eprint.iacr.org/2023/1784)
 - V神的 Binius 博客文章：[Binius: highly efficient proofs over binary fields](https://vitalik.eth.limo/general/2024/04/29/binius.html)
+  - 📒 [笔记](/notes/%20notes%20of%20binius%20blog.pdf)
 - Binius 播客访谈：[Episode 303: A Dive into Binius with Ulvetanna](https://zeroknowledge.fm/303-2/)
 
 ## 成员
